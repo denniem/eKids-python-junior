@@ -12,7 +12,7 @@
 
 ```Python
 string_a = 'Hello, world!'          # Одинарные кавычки
-string_b = "Hello, world!"          #
+string_b = "Hello, world!"          # Двойные кавычки
 ```
 
 Но что делать, если в самой строке есть кавычки?
