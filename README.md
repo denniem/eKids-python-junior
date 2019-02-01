@@ -8,3 +8,9 @@
 * [Занятие 6. Делаем вычисления проще](./lessons/lesson-6.md)
 * [Занятие 7. Подробнее о циклах](./lessons/lesson-7.md)
 * [Занятие 8. Функции и модули](./lessons/lesson-8.md)
+
+***
+
+## Minecraft и Python
+
+[Инструкция по настройке Minecraft/Python](./minecraft/instruction.md)
