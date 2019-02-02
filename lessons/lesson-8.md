@@ -40,7 +40,7 @@ hello_2('Clark', 'Kent')           # Hello, Clark Kent
 Если нужно *возвращать* какое-то значение из функции, нужно воспользоваться оператором `return`:
 
 ```Python
-def percente_value(number, percent):
+def percent_value(number, percent):
     return number * percent / 100
 
 print(percent_value(200, 12))       # 24
