@@ -51,7 +51,7 @@ string_a = 'I\'m a lier. Don\'t trust me.'
 string_a = 'Hello, '
 string_b = 'world!'
 hello_world = string_a + string_b    # Сложение переменных
-string_c = 'Hello, ' + 'world!'      # Cложжение строк
+string_c = 'Hello, ' + 'world!'      # Cложение строк
 ```
 
 Умножать на числа:

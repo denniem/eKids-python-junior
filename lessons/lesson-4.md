@@ -144,7 +144,7 @@ for element in list_1:
 Для *словаря* оператор `for` перебирает *ключи*, при этом порядок не гарантирован:
 
 ```Python
-dict_1 = {'a': 'aaa', 'b': 'bbb', 'c': 'ccc']
+dict_1 = {'a': 'aaa', 'b': 'bbb', 'c': 'ccc'}
 for key in dict_1:
     print(key)
 ```

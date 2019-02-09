@@ -19,7 +19,7 @@ def hello(name):
     print(f'Hello, {name}')
 
 hello('Bruce')                      # Hello, Bruce
-name = 'Clarl'
+name = 'Clark'
 hello(name)                         # Hello, Clark
 ```
 
@@ -91,7 +91,7 @@ print(sys.stdin.readline())
 ```Python
 import sys                          # Не забывайте про импорт модуля sys
 
-print('Cколько тебе лет?')
+print('Сколько тебе лет?')
 age = int(sys.stdin.readline())     # Ожидание ввода возраста
 ```
 
@@ -116,6 +116,8 @@ def check_age(age):
 check_age(5)                        # Ты слишком юн
 сheck_age(age)
 ```
+
+// TODO add `input()` function
 
 ## Практическая часть
 
