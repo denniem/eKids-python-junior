@@ -15,4 +15,7 @@
 
 ## Minecraft и Python
 
-[Инструкция по настройке Minecraft/Python](./minecraft/instruction.md)
+* [Инструкция по настройке Minecraft/Python](./minecraft/instruction.md)
+* [mcpypi Api](./minecraft/minecraft-api.md)
+* [Таблица блоков](./minecraft/blocks-table.md)
+* [Таблица сущностей](./minecraft/entities-table.md)
